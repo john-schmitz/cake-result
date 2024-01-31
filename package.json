@@ -1,0 +1,26 @@
+{
+    "name": "cake-result",
+    "version": "1.0.0",
+    "description": "A simple result library",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "test": "npm run test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/john-schmitz/cake-result.git"
+    },
+    "keywords": [
+        "result"
+    ],
+    "author": "John Schmitz",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/john-schmitz/cake-result/issues"
+    },
+    "homepage": "https://github.com/john-schmitz/cake-result#readme",
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
+}
